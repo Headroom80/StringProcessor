@@ -1,3 +1,5 @@
+package Methodes;
+
 public class Palindrom {
     public static boolean isPalindrome(String word) {
         if (word == null) {

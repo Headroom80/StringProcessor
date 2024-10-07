@@ -1,3 +1,7 @@
+import Methodes.Palindrom;
+import Methodes.Reverser;
+import Methodes.WordCounter;
+
 public class Main {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package Methodes;
+
 public class WordCounter {
     public static int wordsCount(String phrase) {
         if (phrase == null || phrase.isEmpty()) {
